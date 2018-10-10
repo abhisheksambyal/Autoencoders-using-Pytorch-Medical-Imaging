@@ -1,2 +1,2 @@
 # Autoencoders-using-Pytorch
-SImple Autoencoder using Pytorch framework
+Simple Autoencoder using Pytorch framework
